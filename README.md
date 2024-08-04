@@ -1,6 +1,6 @@
-# txt uploader
+# Radha TXT UPLODER
 
-# Made By Devansh
+# Made By Radha
 
 
 ## DEPLOY TO HEROKU
